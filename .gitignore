@@ -1,0 +1,16 @@
+# Data files (contains personal financial info)
+*.csv
+!sossoldi-sample.csv
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
