@@ -1,8 +1,8 @@
+# Money Pro to Sossoldi Converter
+
 <div align="center">
 <img src="img/banner.jpg" alt="Sossoldi Converter Banner" width="800">
 </div>
-
-# Money Pro to Sossoldi Converter
 
 Un semplice script Python per convertire le esportazioni CSV di **[Money Pro](https://money.pro/it/android/)** nel formato compatibile con l'importazione di **[Sossoldi](https://github.com/RIP-Comm/sossoldi)**.
 
