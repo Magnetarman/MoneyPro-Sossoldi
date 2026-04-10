@@ -4,7 +4,7 @@
 
 # Money Pro to Sossoldi Converter
 
-Un semplice script Python per convertire le esportazioni CSV di **[Money Pro](https://money.pro/it/android/)** nel formato compatibile con l'importazione di **[Sossoldi](https://github.com/Sossoldi/sossoldi)**.
+Un semplice script Python per convertire le esportazioni CSV di **[Money Pro](https://money.pro/it/android/)** nel formato compatibile con l'importazione di **[Sossoldi](https://github.com/RIP-Comm/sossoldi)**.
 
 ## Caratteristiche
 
@@ -61,4 +61,4 @@ Le Pull Request per migliorare il codice o risolvere le limitazioni sopra elenca
 Questo progetto è distribuito sotto la licenza MIT. Vedi il file `LICENSE` per i dettagli (se presente).
 
 ---
-*Nota: Questo tool non è affiliato ufficialmente con [Money Pro](https://money.pro/it/android/) o Sossoldi.*
+*Nota: Questo tool non è affiliato ufficialmente con [Money Pro](https://money.pro/it/android/) o [Sossoldi](https://github.com/RIP-Comm/sossoldi).*

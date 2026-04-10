@@ -1,4 +1,4 @@
-# Mappatura Dati Dettagliata: [Money Pro](https://money.pro/it/android/) → Sossoldi
+# Mappatura Dati Dettagliata: [Money Pro](https://money.pro/it/android/) → [Sossoldi](https://github.com/RIP-Comm/sossoldi)
 
 ## 1. Analisi Strutturale dei File
 
