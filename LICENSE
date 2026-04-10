@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-### NOTA SULLE LIMITAZIONI (CSV HIERARCHY)
-A causa della gerarchia particolare del CSV di export di Money Pro, le categorie in Sossoldi verranno importate senza icone e potrebbero essere duplicate. Niente che non sia risolvibile con circa 30 minuti di applicazione per impostare le icone corrette e riorganizzare la gerarchia (come nel caso dell'autore che traccia le proprie finanze dal 2018), essendo la visualizzazione in Sossoldi decisamente migliore rispetto a Money Pro.

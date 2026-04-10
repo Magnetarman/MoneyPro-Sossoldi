@@ -49,7 +49,8 @@ python converter.py -i percorso/al/tuo/money_pro.csv -o sossoldi_import.csv
 
 - **Lingua**: Attualmente supporta esportazioni Money Pro in lingua italiana. Se utilizzi un'altra lingua, modifica il dizionario `MAPPATURA_MESI` in `converter.py`.
 - **Ricorrenze**: Le transazioni ricorrenti sono importate come transazioni singole (il flag `recurring` è impostato a `0` per evitare errori di vincoli nel database Sossoldi).
-- **Categorie e Icone**: A causa della struttura particolare del CSV di Money Pro, le categorie vengono importate senza icone e potrebbero presentare duplicati nel caso di gerarchie complesse. Tuttavia, l'esperienza d'uso (caso personale con archivio inizializzato nel 2018 ed oltre 10 conti monitorati) mostra che con circa 30 minuti di configurazione manuale in Sossoldi per ripristinare icone e gerarchie, si ottiene un risultato visuale e gestionale nettamente superiore a quello originale di Money Pro.
+- **Gestione Categorie e Icone**: La particolare struttura del CSV di Money Pro non permette l'esportazione dei riferimenti alle icone. Di conseguenza, le categorie verranno importate in Sossoldi con un'icona predefinita e, in presenza di gerarchie multi-livello complesse, potrebbero generarsi dei duplicati nominali.
+    - *Nota dell'autore:* Basandomi sulla mia esperienza (migrazione di un archivio inizializzato nel 2018 con oltre 10 conti monitorati), la riconfigurazione manuale delle icone e la pulizia della gerarchia in Sossoldi richiede circa 30 minuti. Si tratta di un investimento di tempo minimo se paragonato alla qualità della visualizzazione e alla potenza gestionale offerta da Sossoldi rispetto a Money Pro.
 
 ## Contribuire
 
